@@ -1,0 +1,6 @@
+module COpenGL [system] {
+  header "/usr/include/GL/glut.h"
+
+  link "GL"
+  export *
+}
